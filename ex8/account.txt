@@ -1,0 +1,3 @@
+aaa ddd 1
+bbb bbb 0
+ccc fff 1
